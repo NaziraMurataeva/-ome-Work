@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Homework21_22</string>
+    <string name="gar"> Добро, не отвергая средства зла
+        по ним и пожинает результаты;
+        в раю, где применяется смола,
+        архангелы копытны и рогаты."</string>
+    <string name="but1">Вперед </string>
+    <string name="but2">Назад </string>
+
 </resources>
